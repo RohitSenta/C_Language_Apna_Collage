@@ -1,0 +1,30 @@
+Student1 details : 
+Student1 Name is : Rohit
+Student1 Marks is : 89
+Student1 CGPA : 8.90
+Student1 Course : Electrical
+
+Student2 details : 
+Student2 Name is : Parth
+Student2 Marks is : 90
+Student2 CGPA : 8.70
+Student2 Course : Electrical
+
+Student3 details : 
+Student3 Name is : Nikhil
+Student3 Marks is : 88
+Student3 CGPA : 8.60
+Student3 Course : Electrical
+
+Student4 details : 
+Student4 Name is : Himanshu
+Student4 Marks is : 90
+Student4 CGPA : 9.10
+Student4 Course : Mechanical
+
+Student5 details : 
+Student5 Name is : Pradip
+Student5 Marks is : 86
+Student5 CGPA : 8.70
+Student5 Course : Mechanical
+
